@@ -1,0 +1,179 @@
+body {
+    background-color: #F1DBB8;
+    margin: 0px;
+}
+
+.header-wrap {
+  overflow: hidden;
+  position: relative;
+}
+
+.header-bg {
+  opacity: 0.3;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+
+.header-content {
+  position: relative;
+}
+
+h1 {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 400%;
+    text-align: center;
+    color: #DB4503;
+}
+
+h2 {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 200%;
+    text-align: left;
+    color: #5E009D;
+    margin-left: 2%;
+}
+
+h3 {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 140%;
+    text-align: left;
+    color: #14B505;
+    margin-left: 2%;
+    margin-top: 20px;
+}
+
+h4 {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 200%;
+    text-align: left;
+    color: #5E009D;
+    margin-left: 2%;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+h5 {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 140%;
+    text-align: right;
+    color: #14B505;
+    margin-right: 2%;
+    margin-top: 20px;
+}
+
+p {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 135%;
+    text-align: justify;
+    color: #5E009D;
+    margin-left: 3%;
+    margin-right: 10%;
+    display: block;
+    padding-top: 30px;
+}
+
+p2 {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 120%;
+    text-align: justify;
+    color: #5E009D;
+    margin-left: 2%;
+    margin-right: 50%;
+    display: block;
+}
+
+p3 {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 105%;
+    text-align: justify;
+    color: #14B505;
+    margin-left: 4%;
+    margin-right: 10%;
+    display: block;
+    font-weight: 600;
+    margin-top: -10px;
+}
+
+p4 {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 90%;
+    text-align: center;
+    color: #5E009D; 
+    line-height: 170%;
+}
+
+p5 {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 80%;
+    text-align: center;
+    color: #5E009D;
+    line-height: 170%;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+.container {
+ width: 100%;
+ height: 800px;
+}
+
+.float-right {
+ float: right;
+ width: 30%;
+ margin: 20px;
+    display: inline;
+}
+
+.left-content {
+    width: 70%;
+    display: inline;
+}
+
+.footer-wrap {
+  overflow: hidden;
+  position: relative;
+}
+
+.footer-bg {
+  opacity: 0.3;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+
+.footer-content {
+  position: relative;
+padding: 100px;
+    text-align: center;
+}
+
+a:link {
+  color: #5E009D;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #DB4503;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #14B505;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #F1DBB8;
+  background-color: transparent;
+  text-decoration: underline;
+}
